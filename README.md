@@ -1,6 +1,6 @@
 # Capsule componentize-py
 
-**A Fork from [Bytecode Alliance](https://bytecodealliance.org/) [Componentize-py](https://github.com/bytecodealliance/componentize-py) project**
+**A Fork from [Bytecode Alliance](https://bytecodealliance.org/) project [Componentize-py](https://github.com/bytecodealliance/componentize-py)**
 
 This is a tool to convert a Python application to a [WebAssembly
 component](https://github.com/WebAssembly/component-model). It takes the
